@@ -1,0 +1,14 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\Haberturdeur\\.platformio\\penv\\Scripts;C:\\Users\\Haberturdeur\\.platformio\\penv;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Git LFS;C:\\Program Files (x86)\\GtkSharp\\2.12\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\;C:\\Users\\Haberturdeur\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Git\\cmd;C:\\Program Files\\Git LFS;C:\\Program Files (x86)\\GtkSharp\\2.12\\bin;C:\\Program Files\\PuTTY\\;C:\\Program Files (x86)\\Windows Kits\\8.1\\Windows Performance Toolkit\\;C:\\Users\\Haberturdeur\\AppData\\Local\\GitHubDesktop\\bin;C:\\Program Files\\Microsoft VS Code\\bin"
+    },
+    "files.associations": {
+        "typeindex": "cpp",
+        "typeinfo": "cpp",
+        "array": "cpp",
+        "rope": "cpp",
+        "slist": "cpp",
+        "initializer_list": "cpp",
+        "valarray": "cpp"
+    }
+}
