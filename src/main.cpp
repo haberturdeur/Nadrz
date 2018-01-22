@@ -14,8 +14,8 @@ OneWire oneWire(ONE_WIRE_BUS);
 DallasTemperature sensors(&oneWire);
 
 //constants
-const char* ssid     = "Henry";
-const char* password = "5451F08EF688554497EF34306A";
+const char* ssid     = "ssid";
+const char* password = "pass";
 
 //variables
 DeviceAddress tempDeviceAddress[6];
