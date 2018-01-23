@@ -14,8 +14,8 @@ OneWire oneWire(ONE_WIRE_BUS);
 DallasTemperature sensors(&oneWire);
 
 //constants
-const char* ssid     = "Henry";
-const char* password = "5451F08EF688554497EF34306A";
+const char* ssid     = "ssid";
+const char* password = "pass";
 
 //variables
 DeviceAddress tempDeviceAddress[6];
@@ -76,8 +76,10 @@ void dset(){
 
 void mer(){
 	Tpr = 0;
-	for(int i; i<6; i++){
+	for(int i = 0
+	; i<6; i++){
 		Temperatures[i] = sensors.getTempC(tempDeviceAddressa[i]);
+		printAddress(tempDeviceAddressa[i]);
 		Tpr = Tpr + sensors.getTempC(tempDeviceAddressa[i]);
 		Temperaturest[i] = String(sensors.getTempC(tempDeviceAddressa[i]));
 		Serial.println("");
